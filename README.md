@@ -1,3 +1,3 @@
 # AppAmazon
-#Em andamento...
-#App de filmes, serie e novelas
+<p>Em andamento...</p><br>
+<p>App de filmes, serie e novelas</p>
