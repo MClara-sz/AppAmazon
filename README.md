@@ -1,1 +1,3 @@
 # AppAmazon
+Em andamento...
+App de filmes, serie e novelas
